@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Build
+dist/
+*.skill
+
+# OS
+.DS_Store
+
+# claude-watch-runtime data should never be committed
+library/
+.env
