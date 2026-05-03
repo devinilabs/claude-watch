@@ -1,0 +1,10 @@
+{
+  "name": "watch",
+  "version": "0.1.0",
+  "description": "Watch a tutorial/lecture video and produce structured study notes.",
+  "entry": "SKILL.md",
+  "scripts_dir": "scripts",
+  "argument_hint": "<video-url-or-path> [topic-or-question]",
+  "license": "MIT",
+  "homepage": "https://github.com/devinilabs/claude-watch"
+}
